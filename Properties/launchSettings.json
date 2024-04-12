@@ -29,6 +29,17 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_HTTPS_PORTS": "9090",
+        "ASPNETCORE_HTTP_PORTS": "9091"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
