@@ -30,3 +30,4 @@ X:\repo\SMU\lab3Server\obj\Debug\net8.0\refint\lab3Server.dll
 X:\repo\SMU\lab3Server\obj\Debug\net8.0\lab3Server.pdb
 X:\repo\SMU\lab3Server\obj\Debug\net8.0\lab3Server.genruntimeconfig.cache
 X:\repo\SMU\lab3Server\obj\Debug\net8.0\ref\lab3Server.dll
+X:\repo\SMU\lab3Server\obj\Debug\net8.0\lab3Server.sourcelink.json
