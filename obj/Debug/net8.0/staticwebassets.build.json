@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fe8Am9CmJx5KB3U2SJtboAZB6QXqUpyW6E7s/THoHEA=",
+  "Source": "lab3Server",
+  "BasePath": "_content/lab3Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
