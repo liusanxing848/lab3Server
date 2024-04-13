@@ -428,23 +428,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\liusa\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sanliu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\repo\\SMU\\lab3Server\\lab3Server.csproj",
+      "projectUniqueName": "D:\\SMU\\lab3Server\\lab3Server.csproj",
       "projectName": "lab3Server",
-      "projectPath": "X:\\repo\\SMU\\lab3Server\\lab3Server.csproj",
-      "packagesPath": "C:\\Users\\liusa\\.nuget\\packages\\",
-      "outputPath": "X:\\repo\\SMU\\lab3Server\\obj\\",
+      "projectPath": "D:\\SMU\\lab3Server\\lab3Server.csproj",
+      "packagesPath": "C:\\Users\\sanliu\\.nuget\\packages\\",
+      "outputPath": "D:\\SMU\\lab3Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\liusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sanliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -453,6 +455,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -495,7 +498,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
