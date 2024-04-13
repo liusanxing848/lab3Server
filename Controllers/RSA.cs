@@ -29,6 +29,12 @@ namespace lab3Server.Controllers
             return Ok(successResp);
         }
 
+        [HttpGet("placeholder")]
+        [AllowAnonymous]
+        public IActionResult PlaceHolderResp()
+        {
+            return Ok("ok");
+        }
 
     }
 }
